@@ -1,4 +1,4 @@
-email = input("Please Enter your Email")
+email = input("Please Enter your Email : ")
 components = email.split("@")
 username = components[0]
 domain = components[1]
